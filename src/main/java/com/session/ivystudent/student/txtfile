@@ -1,0 +1,9 @@
+MVC - Student
+
+Controller --> Service --> Repository --> DB
+
+Controller -> Service
+
+Service -> Repository
+
+Mocking Beans
